@@ -1,7 +1,5 @@
 # vkminer
-
-、、、
-
+'''
 Options:
   -a, --algo=ALGO       specify the hash algorithm to use
                         allium      Garlic double lyra2
@@ -130,7 +128,9 @@ Options:
       --benchmark       run in offline benchmark mode
       --cputest         debug hashes from cpu algorithms
   -c, --config=FILE     load a JSON-format configuration file
+  
+  ```
   -V, --version         display version information and exit
   -h, --help            display this help text and exit
   
-  、、、
+'''
