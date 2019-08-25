@@ -127,9 +127,7 @@ Options:
   -B, --background      run the miner in the background
       --benchmark       run in offline benchmark mode
       --cputest         debug hashes from cpu algorithms
-  -c, --config=FILE     load a JSON-format configuration file
-  
-  ```
+  -c, --config=FILE     load a JSON-format configuration file 
   -V, --version         display version information and exit
   -h, --help            display this help text and exit
   
