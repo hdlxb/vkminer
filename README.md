@@ -1,5 +1,5 @@
 # vkminer
-'''
+```
 Options:
   -a, --algo=ALGO       specify the hash algorithm to use
                         allium      Garlic double lyra2
@@ -133,4 +133,4 @@ Options:
   -V, --version         display version information and exit
   -h, --help            display this help text and exit
   
-'''
+```
